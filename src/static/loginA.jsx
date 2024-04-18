@@ -1,5 +1,4 @@
 import {
-  Card,
   Input,
   Checkbox,
   Button,
@@ -11,7 +10,7 @@ import {
 } from "@material-tailwind/react";
  
 export function LogAd({open2,handleOpen2,setOpen2}) {
-    const options = []
+    // const options = []
   return (
      
     <>
